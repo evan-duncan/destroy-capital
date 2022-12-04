@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<header>
+  <img src="/assets/images/destroy-capital.png" alt="Destroy Capital with strikethrough" style="padding-bottom:1rem;" />
+  {%-if site.theme_config.show_description-%}
+      <p>{{ site.description }}</p>
+  {%-endif-%}
+</header>
+
+{%-include menu_item.html collection=site.data.menu.entries-%}
+
+{{ content }}

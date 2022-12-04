@@ -1,0 +1,10 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: about
+    entries:
+      - title: band
+        url: about
+      - title: politics
+        url: politics
