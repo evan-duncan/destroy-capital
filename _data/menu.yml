@@ -8,3 +8,11 @@ entries:
         url: about
       - title: politics
         url: politics
+  - title: music
+    entries:
+      - title: bandcamp
+        url: https://destroycapital.bandcamp.com
+  - title: social
+    entries:
+      - title: instagram
+        url: https://www.instagram.com/destroycapital_band
