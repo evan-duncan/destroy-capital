@@ -4,11 +4,11 @@ title: Politics
 permalink: /politics/
 ---
 
-**Destroy Capital is built on the notion that capitalism must be destroyed at all cost.**
+**Flower Vase Cut is built on the notion that capitalism must be destroyed at all cost.**
 
 In order for this to happen class consciousness needs to be lifted so the workers understand their common interests and simply that they are greater in number than the ruling class. By doing so it allows us to pave the path to fight against climate change, corporate greed, and the growing threat of the far-right authoritarian ultranationalist fascist.
 
-Below are links to explore various topics pertaining to Destroy Capital. Destroy Capital does not directly endorse any of the organizations or the links below, however they can provide great information.
+Below are links to explore various topics pertaining to Flower Vase Cut. Flower Vase Cut does not directly endorse any of the organizations or the links below, however they can provide great information.
 
 * [Education](https://www.cpusa.org/education/)
 * [Karl Marx](https://www.marxists.org/english.htm)
